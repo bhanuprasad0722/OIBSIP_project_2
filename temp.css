@@ -1,6 +1,4 @@
 body {
-    /*height: 500px;
-    width: 300px;*/
     background-color: rgb(172, 220, 239);
 }
 .block {
@@ -29,7 +27,7 @@ body {
     padding: 6px;
     border: none;
     border-radius: 10px;
-  
+    text-align: center;
 }
 #degree {
     font-size: 30px;
@@ -43,7 +41,7 @@ body {
 }
 #submit {
     width: 93%;
-    padding: 15px;
+    padding: 13px;
     text-align: center;
     font-size: larger;
     background-color: green;
@@ -54,11 +52,14 @@ body {
     text-align: center;
 
 }
-#result {
+#result1 {
     width:97%;
     padding: 1px;
     font-size: 30px;
     border: none;
     border-radius:10px ;
 
+}
+#result {
+    font-size: 30px;
 }
